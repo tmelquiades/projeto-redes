@@ -3,7 +3,7 @@
 ## Redes de Computadores I - 2024.2 :: Prof. Iguatemi Fonseca
 Por Thaís Melquíades e Vinícius Germano
 
-## 🛡️ IDS Básico com Python + Scapy
+## 🛡️ IDS Básico com Python
 
 Este projeto é um Sistema de Detecção de Intrusões (IDS) simples, desenvolvido como parte da disciplina de Redes de Computadores. Ele utiliza a biblioteca Scapy para capturar e analisar pacotes de rede em tempo real.
 
